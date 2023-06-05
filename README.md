@@ -1,6 +1,6 @@
 # Problem-Detection-and-Solution
 
-Project Title: Data-Driven Problem Detection and Solution Recommendation for Assigned Data
+**Project Title:** Data-Driven Problem Detection and Solution Recommendation for Assigned Data
 
 Project Description:
 The objective of this project is to analyze an assigned dataset and identify potential problems through statistical analysis. Based on the observed issues, the project aims to propose effective solutions to mitigate or eradicate the identified problems.
