@@ -23,4 +23,4 @@ Documentation and Reporting: Document the entire process, including the dataset 
 **Presentation and Stakeholder Engagement:**
 Deliver a presentation to the project stakeholders, highlighting the detected problems, the root causes behind them, and the proposed solutions. Engage in discussions with the stakeholders to ensure a thorough understanding of the issues and to validate the recommended solutions.
 
-![Image_01](image_01)
+![Image_01](image_01.png)
