@@ -41,6 +41,8 @@ Deliver a presentation to the project stakeholders, highlighting the detected pr
 
 
 **Result**
+
+
 Overall I concluded that as I found a problem in graph (3,4) where Senior and Middle Management are not sending or receiving emails,So we have used different questions and visualize the feedback of employees of from Senior and Middle Management  as some of employees from these departments think that email waste time,some of employees feels that few features 
 of email systems are barrier to using them effectively,and the main thing I analyzed that most 
 employees from these two departments have not been participating in a training in comparison to other 
